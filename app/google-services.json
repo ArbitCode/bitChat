@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1010148250129",
+    "firebase_url": "https://video-meeting-d77e0.firebaseio.com",
+    "project_id": "video-meeting-d77e0",
+    "storage_bucket": "video-meeting-d77e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010148250129:android:f2f01592877625ba4757b0",
+        "android_client_info": {
+          "package_name": "com.arbitcode.bitchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010148250129-rmbved4th4kd3tb6drj3e8hvf4hm9scj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGg5AnmMvUDMQHfCAgUmnYmtz3MDA-hKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010148250129-rmbved4th4kd3tb6drj3e8hvf4hm9scj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
